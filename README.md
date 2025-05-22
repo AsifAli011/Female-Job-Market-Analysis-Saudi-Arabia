@@ -1,4 +1,3 @@
-# Female-Job-Market-Analysis-Saudi-Arabia
 
 # 👩‍💼 Female Job Market Analysis in Saudi Arabia (Oct 2022 – Jan 2023)
 
@@ -8,14 +7,14 @@ This project presents an interactive **Power BI dashboard** that analyzes female
 
 ## 🎯 Objective
 
-To identify and visualize patterns in female job postings across cities, job roles, sectors, and time periods using real data. This project is designed to support evidence-based decision-making for improving gender equality in employment.
+To analyze the female job market in Saudi Arabia using data from October 2022 to January 2023, and present insights through an interactive Power BI dashboard. The aim is to identify employment trends, top job titles, economic sectors, and salary ranges for women to support data-driven decision-making in gender employment policies.
 
 ---
 
 ## 📊 Tools Used
 
 - **Power BI** – Data visualization and dashboard creation
-- **Excel / CSV** – Data cleaning and preprocessing (if applicable)
+- **Excel / CSV** – Data cleaning and preprocessing
 - **GitHub** – Project hosting and version control
 
 ---
